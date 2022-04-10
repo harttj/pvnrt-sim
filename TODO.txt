@@ -1,0 +1,4 @@
+Allow for the number of atoms to be set easily
+Allow for the size of the box to be set easily
+Have the box displayed
+Count and display the number of collisions that take place
